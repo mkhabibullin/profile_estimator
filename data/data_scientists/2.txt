@@ -1,0 +1,102 @@
+Specializations:
+Analyst
+Data scientist
+Employment: full time
+
+Work schedule: full day, shift schedule, flexible schedule, remote working, rotation based work
+
+Work experience 8 years 10 months
+January 2017 — currently
+6 years 6 months
+SAP CIS
+Moscow
+
+IT, System Integration, Internet... Show more
+
+Data Science Lead
+JOB ROLE
+* Lead Data Science team
+* Collect, analyze and visualize huge amount of complex data ;
+* Select, build and evaluate predictive models using state-of-the-art machine learning techniques ;
+* Analyze and interpret obtained models
+* Deploy predictive models as web-services ;
+* Present the results to customer in a clean manner
+KEY ACHIEVEMENTS
+* Developed, tested and successfully deployed end-to-end solution with text-based classification model using classical Machine Leaning and more advanced Deep Learning approaches for bank statement processing;
+* Developed chat-bots with ML integration and deployed them into cloud;
+* Using time-series analysis, developed models for sales demand forecasting and cash flow forecasting
+* Developed and tested a model for burnout prediction of tuyeres on the real data from client;
+* Developed a demo web-application "Voice Assistant'', which allows user to control the system by voice or text
+September 2014 — december 2016
+2 years 4 months
+JSC “Radiofizika”
+Developer
+JOB ROLE
+* Implement fast and efficient digital signal processing module using C language for a digital phased antenna array ;
+* Test developed modules using MATLAB
+* Integrate modules with the complex system
+Key skills
+Python
+JavaScript
+MATLAB
+Node.js
+Data Mining
+Data Analysis
+Математическая статистика
+Latex
+Linux
+MySQL
+Git
+Английский язык
+Грамотная речь
+Работа в команде
+MS Outlook
+Flask
+SQL
+Driving experience
+Own car
+
+Driver's license category B
+About me
+More than four-year experience in hands-on data analysis and building predictive models.
+Advanced mathematical background and analytics skills allow to solve complex problems and think creatively to find this solution.
+Strong theoretical knowledge of Machine Leaning and Deep Learning methods and ability to apply this knowledge to solve real-world problems. Have several scientific publications on Machine Learning and Deep Learning applications.
+Ability to explain complex technical concepts in a simple way and answer to key user questions
+Willing to constantly progress and ability to learn new concepts quickly.
+Higher education (master)
+2018
+Skolkovo Institute of Science and Technology
+Faculty of Information Technology, Mathematics. Computer Sciences
+2018
+Moscow Institute of Physics and Technology (State University), Moscow
+Department of Radio Engineering and Cybernetics, Mathematics. Computer Sciences
+2016
+Moscow Institute of Physics and Technology (State University), Moscow
+Department of Radio Engineering and Cybernetics, Applied Mathematics and Physics
+Languages
+Russian — Native
+
+
+English — C2 — Proficiency
+
+
+Spanish — A1 — Basic
+
+
+Citizenship, travel time to work
+Citizenship: Russia
+
+Permission to work: Russia
+
+Desired travel time to work: doesn't matter
+
+Similar resumes
+Data Scientist / ML Engineer
+salary not specified
+Сбер, Data Scientist
+Data Scientist / Software Developer (Deep&machine learning)
+salary not specified
+Intterra Europe S.R.L, Руководитель отдела машинного обучения
+Data Scientist, PhD
+salary not specified
+Sensoleak, Senior Data Scientist
