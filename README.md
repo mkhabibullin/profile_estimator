@@ -5,7 +5,7 @@
         file:///root/.local/share/jupyter/runtime/nbserver-1-open.html
     Or copy and paste one of these URLs:
         http://875352fcb961:8888/?token=55135be0bc7bc4396c6cd7286f3017afaf2f605b77f1a3c4
-     or http://127.0.0.1:8888/?token=55135be0bc7bc4396c6cd7286f3017afaf2f605b77f1a3c4
+     or ***http://127.0.0.1:8888/?token=55135be0bc7bc4396c6cd7286f3017afaf2f605b77f1a3c4***
   *
 2. Upload data.zip
 3. Do launch the "text_categorization.ipynb"
