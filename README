@@ -1,4 +1,4 @@
-1. docker run -it -p 8888:8888 -p 6006:6006 tensorflow/tensorflow:nightly-py3-jupyter
+1. docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter
   After it runs you will see a message in logs
   ```To access the notebook, open this file in a browser:
         file:///root/.local/share/jupyter/runtime/nbserver-1-open.html
