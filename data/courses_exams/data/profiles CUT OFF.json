@@ -1,0 +1,73 @@
+[
+    {
+        "id": "2",
+        "title": "1.txt",
+        "context": "",
+        "question": "what courses are listed?",
+        "answers": {
+            "text": ["2021\nMIPT\nSchool of Deep Learning FPMI MIPT, Deep Learning\n2019\nMIPT\nMcKinsey, Data Science in consulting\n2019\nStepik.org\nSamsung Research Center, Neural Networks and Computer Vision\n2019\nStepik.org\nBioinformatics Institute, Introduction to Data Science and Machine Learning"
+        ],
+            "answer_start": []
+        }
+    },
+    {
+        "id": "4",
+        "title": "2.txt",
+        "context": "",
+        "question": "what courses are listed?",
+        "answers": {
+            "text": ["2018\nHSE\nFKN, Minor \"Data Mining\"\n2018\nCoursera\nHSE & University of California, Data Structures and Algorithms\n2017\nSololearn\n- Introduction in SQL\n2016\nCoursera\nHSE Introduction in Python"],
+            "answer_start": []
+        }
+    },
+    {
+        "id": "6",
+        "title": "3.txt",
+        "context": "",
+        "question": "what courses are listed?",
+        "answers": {
+            "text": ["2018\nFast.ai\nFast.ai, Data Science\n2017\nChangellenge Summer School\nChangellenge, Consultant\n2017\nEstiem\nInternational Student Organization, Coordinator\n2017\nMachine learning courses\nData Camp, Machine Learning\n2016\nTINKOFF DATA\nTinkoff Bank, Data analysis\n2016\nPreparation for IELTS\nWINDSOR English\n2016\nData analysis and machine learning\nYandex, Data Scientist\n2015\nBEST Group Moscow\nInternational Student Organization, Organization"],
+            "answer_start": []
+        }
+    },
+    {
+        "id": "6_6",
+        "title": "3.txt",
+        "context": "",
+        "question": "what exams are listed?",
+        "answers": {
+            "text": ["2017\nYandex\nCoursera, Introduction to Machine Learning"],
+            "answer_start": []
+        }
+    },
+    {
+        "id": "7_7",
+        "title": "4.txt",
+        "context": "",
+        "question": "what exams are listed?",
+        "answers": {
+            "text": ["2020\nNational Research University Higher School of Economics\nCoursera, Game Theory\n2019\nMoscow Institute of Physics and Technology, Yandex, E-Learning Development Fund\nCoursera, Learning with Labeled Data\n2019\nMoscow Institute of Physics and Technology, Mail.Ru Group, FROO\nCoursera, Dive into Python\n2019\nMoscow Institute of Physics and Technology, Yandex, E-Learning Development Fund\nCoursera, Math and Python for Data Science\n2019\nMoscow Institute of Physics and Technology, Yandex, E-Learning Development Fund\nCoursera, Finding Structure in Data"],
+            "answer_start": []
+        }
+    },
+    {   
+        "id": "8",
+        "title": "5.txt",
+        "context": "",
+        "question": "what courses are listed?",
+        "answers": {
+            "text": ["2023\nData Science Professional Certificate\nIBM, Data Science, Machine Learning, Deep Learning\n2023\nfinancial markets\nYale University, Market Prediction Analysis\n2020\nComputers, Waves and Simulations\nLudwig-Maxmilians University, Forward Modeling of Seismic Wave Propagation"],
+            "answer_start": []
+        }
+    },    
+    {
+        "id": "8_8",
+        "title": "5.txt",
+        "context": "",
+        "question": "what exams are listed?",
+        "answers": {
+            "text": ["2023\nIBM Data Science Professional Certificate\nIBM, Data Science"],
+            "answer_start": []
+        }
+    }
+]

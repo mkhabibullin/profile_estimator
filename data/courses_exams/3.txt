@@ -1,0 +1,64 @@
+data scientist
+Specializations:
+data scientist
+Analyst
+Employment: full time, part time
+
+Work schedule: full day, shift schedule, flexible schedule, remote working
+
+Work experience 5 years 4 months
+October 2019
+3 years 10 months
+Orb Intelligence
+orb-intelligence.com/
+
+Projects:
+1. Web application for molecular surface visualization
+2. Mapping a relational database to R frames
+
+1. Numpy
+2.Pandas
+3. Scikit-learn
+4. networkx
+5. xgboost, lightgbm, catboost
+6. hyperopt
+
+
+English-C1-Advanced
+
+
+professional development courses
+2018
+Fast.ai
+Fast.ai, Data Science
+2017
+Changellenge Summer School
+Changellenge, Consultant
+2017
+Estiem
+International Student Organization, Coordinator
+2017
+Machine learning courses
+Data Camp, Machine Learning
+2016
+TINKOFF DATA
+Tinkoff Bank, Data analysis
+2016
+Preparation for IELTS
+WINDSOR English
+2016
+Data analysis and machine learning
+Yandex, Data Scientist
+2015
+BEST Group Moscow
+International Student Organization, Organization
+tests, examinations
+2017
+Yandex
+Coursera, Introduction to Machine Learning
+Citizenship, travel time to work
+Citizenship: Russia
+
+Permission to work: Russia
+
+Desired travel time to work: doesn't matter
